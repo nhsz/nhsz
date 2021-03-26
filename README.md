@@ -11,7 +11,6 @@ Also, I'm a [freeCodeCamp](https://freecodecampba.org) local chapter co-founder/
 - 📝 I write [notes](https://github.com/undefinedschool/notes) (in spanish) about JavaScript related concepts
 - 🌱 I’m currently learning [#graphql](https://github.com/graphql/graphql-js)
 - 👯 I’m looking to collaborate on [#react](https://github.com/facebook/react) and [#node](https://github.com/nodejs/node) projects
-- 💬 Ask me about _javascript_
 - 📫 How to reach me: [e-mail](mailto:nh.quiroz@gmail.com/) / [twitter](https://twitter.com/_nhsz)
 - 😄 Pronouns: he/him
 - ☕️ Buy me a coffee: We always need more coffee. If you find useful some of the content I publish, [help me](https://cafecito.app/nhsz) to buy more! 🎉
