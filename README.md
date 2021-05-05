@@ -6,7 +6,7 @@ I'm a **Full Stack Software Engineer**, working mostly with **JavaScript**. My c
 
 If you speak spanish, are learning web development on your own and wanna some help or guidance, check my current [mentorship program](https://mentorship.undefinedschool.io), where you can _pay what you want_.
 
-Also, I'm a [freeCodeCamp](https://freecodecampba.org) local chapter co-founder/co-organizer.
+Also, I'm a [freeCodeCamp](https://freecodecampba.org) local chapter co-founder.
 
 - 📝 I write [notes](https://github.com/undefinedschool/notes) (in spanish) about JavaScript related concepts
 - 🌱 I’m currently learning [#graphql](https://github.com/graphql/graphql-js)
