@@ -4,8 +4,6 @@
 
 I'm a **Full Stack Software Engineer**, working mostly with **JavaScript**. My current tech stack of choice is ES6+, [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react) (+ [NextJS](https://github.com/vercel/next.js/)), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) / [styled-components](https://styled-components.com/), [Node](https://github.com/nodejs/node) & [Express](https://github.com/expressjs/express), mainly using Postgres or MongoDB as databases.
 
-If you speak spanish, are learning web development on your own and wanna some help or guidance, check my current [mentorship program](https://mentorship.undefinedschool.io), where you can _pay what you want_.
-
 Also, I'm a [freeCodeCamp](https://freecodecampba.org) local chapter co-founder.
 
 - 📝 I write [notes](https://github.com/undefinedschool/notes) (in spanish) about JavaScript related concepts
