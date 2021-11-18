@@ -2,7 +2,7 @@
 
 ![](https://github-readme-stats.vercel.app/api?username=nhsz&show_icons=true&count_private=true)
 
-I'm a **Full Stack Software Engineer**, working with **JavaScript**. My current tech stack of choice is ES6+, [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react) (+ [NextJS](https://github.com/vercel/next.js/)), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) / [styled-components](https://styled-components.com/) / [Chakra UI](https://github.com/chakra-ui/chakra-ui), [Node](https://github.com/nodejs/node) & [Express](https://github.com/expressjs/express).
+I'm a **Web Developer**, working with **JavaScript**. My current tech stack of choice is ES6+, [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react) (+ [NextJS](https://github.com/vercel/next.js/)), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) / [styled-components](https://styled-components.com/) / [Chakra UI](https://github.com/chakra-ui/chakra-ui), [Node](https://github.com/nodejs/node) & [Express](https://github.com/expressjs/express).
 
 Also, I'm a [freeCodeCamp](https://freecodecampba.org) local chapter co-founder.
 
