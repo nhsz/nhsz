@@ -6,4 +6,6 @@ I'm a **Software Engineer**, currently part of the Core Web team @ [ethereum](ht
 
 Nowadays I care mostly about building **open-source**, **privacy-first** products, especially around the Ethereum ecosystem.
 
-Have a good offer that fits some part of the description? reach me at [e-mail](mailto:nh.quiroz@gmail.com/) / [twitter](https://twitter.com/___nhsz)
+---
+
+[e-mail](mailto:nh.quiroz@gmail.com/) / [twitter](https://twitter.com/___nhsz)
