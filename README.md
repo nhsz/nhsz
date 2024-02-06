@@ -8,4 +8,4 @@ Nowadays I care mostly about building **open-source**, **privacy-first** product
 
 ---
 
-[e-mail](mailto:nh.quiroz@gmail.com/) / [twitter](https://twitter.com/___nhsz)
+[e-mail](mailto:nh.quiroz@gmail.com/)
