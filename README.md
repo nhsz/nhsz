@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nicolás, a **Software Engineer**, formerly on the Core Web team @ [ethereum](https://github.com/ethereum). My preferred stack includes JavaScript (ES6+), [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react) (+ [Vite](https://github.com/vitejs/vite) / [NextJS](https://github.com/vercel/next.js/)), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) / [Chakra UI](https://github.com/chakra-ui/chakra-ui), [Node](https://github.com/nodejs/node) & [Express](https://github.com/expressjs/express).
+I'm Nicolás, a **Software Engineer**, formerly on the Core Web team @ [ethereum](https://github.com/ethereum). My preferred stack includes JavaScript (ES6+), [TypeScript](https://github.com/microsoft/TypeScript), [React](https://github.com/facebook/react) (+ [Vite](https://github.com/vitejs/vite) / [NextJS](https://github.com/vercel/next.js/)), [TailwindCSS](https://github.com/tailwindlabs/tailwindcss) / [Chakra UI](https://github.com/chakra-ui/chakra-ui) & [NodeJS](https://github.com/nodejs/node).
 
 I enjoy building user-centric web applications. These days, I'm especially drawn to **open-source**, **privacy-first** products that prioritize great user experiences.
 
